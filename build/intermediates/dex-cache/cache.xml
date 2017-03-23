@@ -2,32 +2,53 @@
 <items version="2" >
 
     <item
-        jar="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jar="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
         jumboMode="false"
-        revision="23.0.2"
-        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
-        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\classes-c4d6876407164440e1b11d313f6c5b3fa7c144b9.jar" />
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/pre-dexed/debug/internal_impl-23.4.0_cfb1db75f3d985efc52a8552b08782de56341a5a.jar" />
     </item>
     <item
-        jar="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\exploded-aar\TimePickerWithSeconds\timepickerwithseconds\unspecified\jars\classes.jar"
+        jar="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.2"
-        sha1="4ca9a156fc71dcc6abdca72be55c3eacb67aa4f0">
-        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\classes-fe837e83ebbfb30994cdd7ea1f4edddcfe3e65a6.jar" />
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.4.0_390810d507c3bcd166d13a4dc1e003bd442da80c.jar" />
     </item>
     <item
-        jar="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jar="/home/miroslav/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
         jumboMode="false"
-        revision="23.0.2"
-        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
-        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-b46ff52d698599a71e976e4c5ed09d749d3387fa.jar" />
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/pre-dexed/debug/support-annotations-23.4.0_1ed76cab7d02f5565c571f1e2367101cfca24d1a.jar" />
     </item>
     <item
-        jar="C:\Users\Ivan\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jar="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
         jumboMode="false"
-        revision="23.0.2"
-        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
-        <dex dex="B:\Projects\TimePickerWithSeconds\sample\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-44c4098512036f575379beda0da310aeda8902f8.jar" />
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.4.0_238233d3c0a47355dd374c05d27dd61c4f11b744.jar" />
+    </item>
+    <item
+        jar="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.4.0_88a28847c2afca183d57dda7f2b773331736d832.jar" />
+    </item>
+    <item
+        jar="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.4.0_793a962672528bdff7819b3e08eb93c1a34a1727.jar" />
+    </item>
+    <item
+        jar="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/exploded-aar/com.kovachcode/timePickerWithSeconds/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a061101280b30ff29655f882fcdb06cec52a3f3c">
+        <dex dex="/home/miroslav/android_projects/TimePickerWithSeconds/sample/build/intermediates/pre-dexed/debug/com.kovachcode-timePickerWithSeconds-1.0.1_10bcea5a0e635a0d1cc3e1d6392669b147c62dcc.jar" />
     </item>
 
 </items>
